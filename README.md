@@ -7,7 +7,7 @@ This Ethereum Block is made in Java. This project demonstrates how the Ethereum 
 <!-- TABLE OF CONTENTS -->
   * [_About The Project_](#about-the-project)
   * [_Technologies Used_](#technologies-used)
-  * [_Extension on Eclipse_](#extension-on-Eclipse)
+  * [_Extension on Eclipse_](#extension-on-eclipse)
   * [_Prerequisites_](#prerequisites)
   * [_Installation and Run_](#installation-and-run)
   * [_Architecture_](#architecture)
@@ -25,6 +25,7 @@ none
 
 ## Prerequisites
 **JavaSE-11**:
+![Link]( https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
 **Eclipse 2022-06**:
 
@@ -32,18 +33,10 @@ none
 ## Installation and Run
 **Installation**:
 Clone repository:
-<br>
-Server: https://github.com/LyonKhang/LETBackend.git
-<br>
-Client: https://github.com/LyonKhang/LET-FrontEnd.git
-<br>
-Import the project to Visual Studio Code.
 
 
  **Run** 
  
-
-
 
     <p align="right">(<a href="#about-the-project">back to top</a>)</p>
     
@@ -64,7 +57,7 @@ Import the project to Visual Studio Code.
 [Commit Formatting](https://gist.github.com/brianclements/841ea7bffdb01346392c)
 
 ## License
-This Project uses a GPL-3.0 license (2024)
+This Project uses a MIT license (2024)
 ## Acknowledgements
 This project uses icons and badges at ![Shields.io](https://shields.io/).
 
