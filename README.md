@@ -7,7 +7,7 @@ This Ethereum Block is made in Java. This project demonstrates how the Ethereum 
 <!-- TABLE OF CONTENTS -->
   * [_About The Project_](#about-the-project)
   * [_Technologies Used_](#technologies-used)
-  * [_Extension on Visual Studio Code_](#extension-on-visual-studio-code)
+  * [_Extension on Eclipse_](#extension-on-Eclipse)
   * [_Prerequisites_](#prerequisites)
   * [_Installation and Run_](#installation-and-run)
   * [_Architecture_](#architecture)
@@ -20,14 +20,13 @@ This Ethereum Block is made in Java. This project demonstrates how the Ethereum 
 [![Java][Java]][Java-url]
 [![Eclipse]][Eclipse-url]
 
-### Development:  ![VSCode]
-[![Postman Badge]][Postman Badge-url]
-![MySQL Badge]
-
-## Extension on Visual Studio Code
+## Extension on Eclipse
+none
 
 ## Prerequisites
-### Server:
+**JavaSE-11**:
+
+**Eclipse 2022-06**:
 
 
 ## Installation and Run
@@ -63,6 +62,7 @@ Import the project to Visual Studio Code.
 3.  Create a new branch where you can make changes
 4.  once finished changes, commit with messages following the Commit Message Format
 [Commit Formatting](https://gist.github.com/brianclements/841ea7bffdb01346392c)
+
 ## License
 This Project uses a GPL-3.0 license (2024)
 ## Acknowledgements
