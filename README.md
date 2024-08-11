@@ -10,7 +10,7 @@ This Ethereum Block is made in Java. This project demonstrates how the Ethereum 
   * [_Extension on Eclipse_](#extension-on-eclipse)
   * [_Prerequisites_](#prerequisites)
   * [_Installation and Run_](#installation-and-run)
-  * [_Architecture_](#architecture)
+  * [JavaDoc](#javadoc)
   * [_Experiences Gained_](#experiences-gained)
   * [_Contributing_](#contributing)
   * [_License_](#license)
@@ -24,26 +24,30 @@ This Ethereum Block is made in Java. This project demonstrates how the Ethereum 
 none
 
 ## Prerequisites
-**JavaSE-11**:
+**JavaSE-11**: Java JDK development environment. Choose your preferred operating system installation.
 ![Link]( https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
-**Eclipse 2022-06**:
-
+**Eclipse 2024-06**: 
+1. Download Eclipse to your preferred operating system.
+2. Start exe file
+3. Select Eclipse IDE for Java Developer
+4. choose prefer installation folder
+5. Launch Eclipse 
+![Link](https://www.eclipse.org/downloads/packages/installer)
 
 ## Installation and Run
 **Installation**:
-Clone repository:
-
-
- **Run** 
+1. Clone repository:![link](https://github.com/LyonKhang/-Ethereum-Blocks.git)
+2. Open Eclipse and choose your preferred workspace
+3. On File, click Import
+4. To Run, Click run as JUnit test or Right click to Test.java and run as Java Application.
  
 
     <p align="right">(<a href="#about-the-project">back to top</a>)</p>
     
-## Architecture
+## JavaDoc
 
-<img alt="UML_Diagram" width="700" height="600" src="LET_diagram.png"/>
-
+Navigate to the doc file path for the architecture of the project
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
