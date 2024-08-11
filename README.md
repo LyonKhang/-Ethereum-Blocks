@@ -1,7 +1,6 @@
 # Ethereum Block
 ## About The Project
-This Ethereum Block is made in Java. This project demonstrates how the Ethereum block works using Java, an example of extracting data and transactions into readable user data.
-
+This Ethereum Block is made in Java. This project demonstrates how the Ethereum block works using Java, an example of extracting data and transactions into readable user data. JavaDoc documents all code functions to the example of Ethereum data and its transaction. Junit is also used to test if the function is working properly.
 
 ### Table of Contents
 <!-- TABLE OF CONTENTS -->
@@ -52,16 +51,22 @@ Navigate to the doc file path for the architecture of the project
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ## Experiences Gained
+This project teaches the general concept of blockchains and a basic understanding of Ethereum block.
+* Gain a basic concept understanding of how cryptocurrency works and 
+* How to convert partial Ethereum data to readable user data.
+* Generate a Javadoc document.
+* Testing the project with Junit 
 
 ## Contributing
-1. Fork this project to to GitHub account
+1. Fork this project to a GitHub account
 2. Clone this project to your machines.
 3.  Create a new branch where you can make changes
 4.  once finished changes, commit with messages following the Commit Message Format
 [Commit Formatting](https://gist.github.com/brianclements/841ea7bffdb01346392c)
 
 ## License
-This Project uses a MIT license (2024)
+This Project uses an MIT license (2024)
+
 ## Acknowledgements
 This project uses icons and badges at ![Shields.io](https://shields.io/).
 
